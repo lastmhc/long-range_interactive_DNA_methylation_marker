@@ -1,6 +1,6 @@
 #Python code to caculate Pearson correaltion of selected CpG-long range gene pairs
 
-#usage: python correlation_exp_exp.py methFile.txt expFile.txt meth_exp_listFile.txt output.txt
+#usage: python correlation_meth_exp.py methFile.txt expFile.txt meth_exp_listFile.txt output.txt
 
 #methFile.txt
 #Probe_ID	TCGA-A7-A0D9-01A	TCGA-A7-A0D9-11A	TCGA-A7-A13E-01A	TCGA-A7-A13E-11A	TCGA-A7-A13F-01A    ...
